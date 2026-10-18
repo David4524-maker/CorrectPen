@@ -1,0 +1,23 @@
+{
+  "extName": {
+    "message": "CorrectPen"
+  },
+  "extDescription": {
+    "message": "Autocorretor inteligente para ES, EN e PT."
+  },
+  "languageLabel": {
+    "message": "Idioma"
+  },
+  "toggleOn": {
+    "message": "Ativar"
+  },
+  "toggleOff": {
+    "message": "Desativar"
+  },
+  "statusOn": {
+    "message": "Correção ativa"
+  },
+  "statusOff": {
+    "message": "Correção desativada"
+  }
+}

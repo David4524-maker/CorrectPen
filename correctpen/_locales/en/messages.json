@@ -1,0 +1,23 @@
+{
+  "extName": {
+    "message": "CorrectPen"
+  },
+  "extDescription": {
+    "message": "Smart autocorrect for ES, EN and PT."
+  },
+  "languageLabel": {
+    "message": "Language"
+  },
+  "toggleOn": {
+    "message": "Enable"
+  },
+  "toggleOff": {
+    "message": "Disable"
+  },
+  "statusOn": {
+    "message": "Correction active"
+  },
+  "statusOff": {
+    "message": "Correction disabled"
+  }
+}
